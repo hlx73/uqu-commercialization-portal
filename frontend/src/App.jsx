@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_BASE = 'http://localhost:5000/api';
-
+const API_BASE = 'https://uqu-commercialization-portal.onrender.com/api';
 function App() {
   const [activeTab, setActiveTab] = useState('dashboard');
   const [language, setLanguage] = useState('en');

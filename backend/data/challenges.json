@@ -1,0 +1,51 @@
+[
+  {
+    "id": "ch-01",
+    "title": "Hajj and Umrah Pilgrim Capacity Expansion (زيادة الطاقة الاستيعابية لضيوف الرحمن)",
+    "description": "Increasing the annual pilgrim capacity to 30 million by 2030 while maintaining high standards of health, logistics, safety, and smooth crowd movements.",
+    "sector": "Hajj & Umrah Tech",
+    "entity": "Ministry of Hajj and Umrah (وزارة الحج والعمرة)"
+  },
+  {
+    "id": "ch-02",
+    "title": "Water Scarcity and Desalination Energy Reduction (مواجهة شح المياه وتقليل تكلفة التحلية)",
+    "description": "Saudi Arabia relies heavily on desalination, which consumes massive amounts of energy. Challenges include increasing efficiency and transitioning to clean energy.",
+    "sector": "Clean Energy & Environment",
+    "entity": "Saline Water Conversion Corporation (المؤسسة العامة لتحلية المياه المالحة)"
+  },
+  {
+    "id": "ch-03",
+    "title": "Heat mitigation in holy sites and urban cities (تخفيف درجات الحرارة في المشاعر المقدسة والمدن)",
+    "description": "Extreme summer temperatures in Makkah, Mina, and Arafat threaten pilgrim safety. Seeking innovative coatings, green infrastructure, and cooling systems.",
+    "sector": "Smart Infrastructure & IoT",
+    "entity": "Makkah Municipality (أمانة العاصمة المقدسة)"
+  },
+  {
+    "id": "ch-04",
+    "title": "AI-powered Disease Prevention and Diagnostics (الوقاية والتشخيص المبكر القائم على الذكاء الاصطناعي)",
+    "description": "Implementing preventive health screenings, tracking infectious diseases during pilgrimage seasons, and integrating genetic research into therapy.",
+    "sector": "HealthTech & Biotech",
+    "entity": "Ministry of Health (وزارة الصحة)"
+  },
+  {
+    "id": "ch-05",
+    "title": "Waste Management and Circular Economy (إدارة النفايات والاقتصاد الدائري في المشاعر المقدسة)",
+    "description": "Mina and Arafat generate massive organic and plastic waste within short periods. Solving waste accumulation, sorting, and processing locally.",
+    "sector": "Clean Energy & Environment",
+    "entity": "National Center for Waste Management (المركز الوطني لإدارة النفايات - موان)"
+  },
+  {
+    "id": "ch-06",
+    "title": "Sovereign Arabic Language Technology (توطين تقنيات اللغة العربية والذكاء الاصطناعي التوليدي)",
+    "description": "Developing local Arabic NLP systems, legal contract analysis, and customer service bots that understand Arabic dialects, culture, and Islamic concepts.",
+    "sector": "Islamic Finance & Digital Economy",
+    "entity": "Saudi Data and AI Authority (سدايا - SDAIA)"
+  },
+  {
+    "id": "ch-07",
+    "title": "Autonomous and Smart Transportation (النقل المستقل والذكي لتسهيل التفويج)",
+    "description": "Developing self-driving buses, drone-based route planning, and smart parking algorithms to manage traffic entering Makkah and moving between holy sites.",
+    "sector": "Smart Infrastructure & IoT",
+    "entity": "Ministry of Transport (وزارة النقل والخدمات اللوجستية)"
+  }
+]

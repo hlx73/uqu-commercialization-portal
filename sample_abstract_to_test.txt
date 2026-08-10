@@ -1,0 +1,8 @@
+Title: Real-Time Pilgrim Crowd Density Estimation and Flow Optimization in the Grand Mosque Using Edge-Based Deep Learning
+
+Abstract:
+Managing massive pilgrim crowds during Hajj and Umrah is a high-priority challenge for Saudi authorities in Makkah. This research paper presents an advanced, high-precision crowd management system utilizing deep convolutional neural networks (CNNs) deployed on edge-computing devices. We propose a custom multi-column neural network architecture optimized for dense and highly congested environments (such as the Tawaf area and Mina pedestrian pathways). 
+
+The system takes real-time video feeds from existing surveillance infrastructure, processes it locally to preserve privacy and minimize latency, and outputs highly accurate density maps, crowd counting estimations, and directional velocity vectors. Furthermore, a predictive congestion routing algorithm is integrated to simulate crowd flow and automatically suggest alternative routes to crowd control officers before physical bottlenecks form. 
+
+Our experimental prototype has been successfully validated in a simulated laboratory environment using historical multi-spectral video datasets of the Holy Sites, achieving a 94.2% crowd estimation accuracy under extreme density scenarios (above 6 pilgrims per square meter). The proposed solution provides an actionable blueprint for smart city integration under Saudi Vision 2030, enhancing pilgrim safety and optimizing spatial utilization during peak seasons.
